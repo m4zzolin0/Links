@@ -1,5 +1,3 @@
-# Links
-Hear Iran / ایران را بشنوید
 <!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
