@@ -162,7 +162,7 @@
     <a class="link-card" href="https://canva.link/orgi5zo7x91fgxz" target="_blank">
       <div class="icon canva-icon">C</div>
       <div class="text">
-        <div class="title">پست مستقیم - سایز A4</div>
+        <div class="title">Hear Iran Campaign via Post (A4)</div>
         <div class="url">canva.link/orgi5zo7x91fgxz</div>
       </div>
       <div class="dots">...</div>
