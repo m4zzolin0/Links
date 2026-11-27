@@ -171,7 +171,7 @@
     <a class="link-card" href="https://canva.link/s4mq66ddjl8vmqa" target="_blank">
       <div class="icon canva-icon">C</div>
       <div class="text">
-        <div class="title">پست مستقیم - سایز A3</div>
+        <div class="title">Hear Iran Campaign via Post (A3)</div>
         <div class="url">canva.link/s4mq66ddjl8vmqa</div>
       </div>
       <div class="dots">...</div>
@@ -180,7 +180,7 @@
     <a class="link-card" href="https://drive.google.com/file/d/155sasxn54hDdOZkSyjggMmfloBqeuvjR/view?usp=drivesdk" target="_blank">
       <div class="icon google-icon">G</div>
       <div class="text">
-        <div class="title">دانلود فایل پرینت - سایز A4</div>
+        <div class="title">Hear Iran Campaign Download (A4)</div>
         <div class="url">drive.google.com/file/d/155sasxn54hDdOZkSyjggMmfloBqeuvjR</div>
       </div>
       <div class="dots">...</div>
@@ -189,7 +189,7 @@
     <a class="link-card" href="https://drive.google.com/file/d/1YO2WDXfe08n-7WQffKQg-tzcC0EoGlGc/view?usp=drivesdk" target="_blank">
       <div class="icon google-icon">G</div>
       <div class="text">
-        <div class="title">دانلود فایل پرینت - سایز A3</div>
+        <div class="title">Hear Iran Campaign Download (A4)</div>
         <div class="url">drive.google.com/file/d/1YO2WDXfe08n-7WQffKQg-tzcC0EoGlGc</div>
       </div>
       <div class="dots">...</div>
